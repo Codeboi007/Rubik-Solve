@@ -18,7 +18,7 @@ git clone https://github.com/your-username/rubiks-solver.git
 pip install -r requirements.txt
 
 
-## Usage
+## Usage(ignore)
 
 - Detailed steps on how to run the solver and solve the Rubik's Cube.
 - Examples of input formats and expected outputs.
@@ -28,6 +28,3 @@ pip install -r requirements.txt
 - Fork the repository, make your changes, and submit a pull request.
 - Issues and feature requests can be logged in the GitHub Issues section.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
